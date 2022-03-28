@@ -2,7 +2,7 @@ package day4SL;
 
 import java.util.Scanner;
 
-public class NoPlayUC3 {
+public class NoPlayUC5 {
 
 	
 		public static final int winningPosition = 100;
@@ -66,8 +66,7 @@ public class NoPlayUC3 {
 
 	
 		
-		// TODO Auto-generated method stub
-
+		
 	}
 
 
