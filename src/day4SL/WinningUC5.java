@@ -2,14 +2,15 @@ package day4SL;
 
 import java.util.Scanner;
 
-public class NoPlayUC5 {
+public class WinningUC5 {
 
 	
 		public static final int winningPosition = 100;
 		public static void main(String[] args) {
-		
+		      
 			// TODO Auto-generated method stub
 	      System.out.println("Welcome to Snake ladder Game");
+	      
 	
 			int playerPosition = 0;	
 			System.out.println("Starting position is " + playerPosition );
